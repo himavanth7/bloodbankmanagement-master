@@ -1,6 +1,4 @@
-# Blood Bank Management System
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
----
+# Blood Bank Management System---
 ## Screenshots
 ### Homepage
 ![homepage snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/homepage.png?raw=true)
